@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @ksommer60
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+Hello!
+
+My name is Kevin Sommer and I am student at Western Governors University. I am currently enrolled in thier Software Development program. My end goal is to become a video 
+developer so i am learning C# at the moment. I also know C++ and have use it in Unreal to start my video game journey.
+
+I have ideas so a video game I want to develop and would love to bounce ideas off of other developers. I will be adding in my project files from school here as well.
+
+I am vbe reach out kevinsommer60@gmail.com. I look forward to being a part of this community and to coliborate! 
+
+<!---
+ksommer60/ksommer60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
